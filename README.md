@@ -1,3 +1,3 @@
 # AJAX
-*Progetto Animali AJAX*
-Ciao centu
+*Progetto Photo Rover AJAX*
+Stesura codice per recuperare infromazioni dal WEB API "Photo Mars" della NASA.
